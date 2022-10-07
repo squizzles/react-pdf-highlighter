@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "../style/Highlight.css";
+// import "../style/Highlight.css";
 
 import type { LTWHP } from "../types.js";
 

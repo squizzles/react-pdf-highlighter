@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "../style/Tip.css";
+// import "../style/Tip.css";
 
 interface State {
   compact: boolean;

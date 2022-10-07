@@ -9,9 +9,9 @@ import {
 } from "pdfjs-dist/legacy/web/pdf_viewer";
 
 import "pdfjs-dist/web/pdf_viewer.css";
-import "../style/pdf_viewer.css";
+// import "../style/pdf_viewer.css";
 
-import "../style/PdfHighlighter.css";
+// import "../style/PdfHighlighter.css";
 
 import getBoundingRect from "../lib/get-bounding-rect";
 import getClientRects from "../lib/get-client-rects";
