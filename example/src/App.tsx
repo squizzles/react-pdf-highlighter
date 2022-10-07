@@ -17,6 +17,8 @@ import { Sidebar } from "./Sidebar";
 
 import "./style/App.css";
 
+//import "../../src/style/styleSheet.css";
+
 const testHighlights: Record<string, Array<IHighlight>> = _testHighlights;
 
 interface State {
